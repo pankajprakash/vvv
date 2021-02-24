@@ -1,0 +1,38 @@
+.all-body{
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.s-no
+{
+    width: 200px;
+}
+
+.name
+{
+    width: 300px;
+}
+
+.status
+{
+    width: 500px;
+}
+
+
+table,td,tr
+{
+    border: 2px solid black;
+    padding: 10px;
+    border-collapse: collapse;
+    width: 1000px;
+}
+ 
+
+
+ul,li{
+    display:inline
+}
+
+thead{
+    text-align: center;
+}
